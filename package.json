@@ -1,0 +1,9 @@
+{
+  "name": "andalusia-backend",
+  "version": "1.0.0",
+  "description": "Backend for Andalusia 2026 holiday guide",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "express": "^4.18.2", "cors": "^2.8.5" },
+  "engines": { "node": "20.x" }
+}
